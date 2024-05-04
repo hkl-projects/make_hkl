@@ -1,0 +1,6 @@
+-Document installation and basic usage of hkl package
+-Create simple example of PyGObject to clarify how python bindings work
+-Basic use of GNU scientific library (gsl)
+-Utilize hkl python bindings
+-Test sample data in hkl
+
