@@ -4,7 +4,7 @@
 
 * Compile
     * ./autogen.sh
-    * ./configure
+    * ./configure --enable-introspection
     * make
     * make install
 ```
