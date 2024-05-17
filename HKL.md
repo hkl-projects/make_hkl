@@ -9,7 +9,7 @@
     * sudo make install
 ```
 './configure && make && make install'
-{sudo make install to aviod "/usr/bin/install: cannot remove '/usr/local/include/hkl-5/hkl/ccan/darray/darray.h': Permission denied"}
+{sudo make install to avoid "/usr/bin/install: cannot remove '/usr/local/include/hkl-5/hkl/ccan/darray/darray.h': Permission denied"}
 ```
     * disable gui
         * ./configure --disable-gui
