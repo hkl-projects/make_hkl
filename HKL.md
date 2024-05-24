@@ -29,6 +29,7 @@ sudo apt install gtk-doc-tools autoconf libgsl-dev libgtkmm-3.0-dev libg3d-dev l
 ```
 sudo apt install libhdf5-dev
 sudo apt install libcglm-dev {v5.0.0.3434}
+sudo apt install libinih-dev {v5.0.0.3434}
 ```
 * make 
 ```
